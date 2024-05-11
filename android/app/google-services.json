@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044142691933",
+    "project_id": "crude-fb509",
+    "storage_bucket": "crude-fb509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044142691933:android:5d38274ed9bfa03d835fb4",
+        "android_client_info": {
+          "package_name": "com.example.crude"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnZOexWbr9FXxkAvF7vgCaBsz5iNvbc_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
